@@ -1,6 +1,6 @@
 Codebase for the tutorial on getting started with web scraping in Python
 
-**Python here refers to Pyhon3**
+**Python here refers to Python3**
 ## Installation:
 
 - Install required libraries using this command:
